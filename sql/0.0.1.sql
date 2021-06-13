@@ -1,4 +1,5 @@
-﻿# Host: localhost  (Version 5.7.19-log)
+﻿# 创建 yygh_manage
+# Host: localhost  (Version 5.7.19-log)
 # Date: 2020-07-31 14:28:31
 # Generator: MySQL-Front 6.1  (Build 1.26)
 

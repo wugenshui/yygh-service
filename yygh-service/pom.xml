@@ -19,7 +19,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.wugenshui</groupId>
-            <artifactId>yygh-common</artifactId>
+            <artifactId>yygh-service-util</artifactId>
             <version>${revision}</version>
         </dependency>
         <dependency>
